@@ -1,1 +1,0 @@
-# yukicoder精進記録
